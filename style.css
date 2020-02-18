@@ -30,3 +30,12 @@ main p {
     padding:5px 20px 5px 20px;
     font-size: 25px;
 }
+
+.skills ul {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.skills li {
+    padding-top: 3px;
+}
