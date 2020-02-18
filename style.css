@@ -14,3 +14,7 @@ body {
      width: 1024px;
      background: #ffffff;
  }
+
+ header {
+    text-align: center;
+}
