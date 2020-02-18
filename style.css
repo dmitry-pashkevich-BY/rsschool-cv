@@ -18,3 +18,15 @@ body {
  header {
     text-align: center;
 }
+
+main {
+    box-sizing: border-box;
+    padding: 20px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid grey;
+}
+
+main p {
+    padding:5px 20px 5px 20px;
+    font-size: 25px;
+}
