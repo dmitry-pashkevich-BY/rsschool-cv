@@ -26,6 +26,12 @@ main {
     border-bottom: 1px solid grey;
 }
 
+main div {
+    padding-top: 5px;
+    margin-bottom: 10px;
+    border-top: 3px solid black;
+}
+
 main p {
     padding:5px 20px 5px 20px;
     font-size: 25px;
