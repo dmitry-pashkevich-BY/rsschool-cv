@@ -45,3 +45,15 @@ main p {
 .skills li {
     padding-top: 3px;
 }
+
+footer {
+    padding: 10px;
+    font-style: italic;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+footer p {
+    font-size: 18px;
+}
